@@ -1,2 +1,3 @@
-# multiple-accounts
+# Multiple Accounts
 Test repository
+Tested from company account.
